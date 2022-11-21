@@ -102,3 +102,100 @@ section{
     width: 1000px;
     margin: 0 auto;
 }
+
+section header{
+    width: 952px;
+    height: 98px;
+    left: 100px;
+    top: 0px;
+    bottom: 40px;
+    align-items: center;
+}
+
+section header div{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+}
+
+section header p{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: right;
+    text-transform: uppercase;
+    color: rgba(34, 34, 34, 0.1);
+}
+
+section header img{
+    width: 30px;
+    margin-right: 8px;
+}
+
+hr{
+    width: 708px;
+    height: 0px;
+    left: 108px;
+    top: 4478px;
+    border: 1px solid #C4C4C4;
+}
+
+section header hr{
+    border: 1px solid #000000;
+}
+
+section div article{
+    display: flex;
+    width: 1152px;
+    margin: 0 auto;
+    top: 0px;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    color: #3E3F43;
+}
+
+p{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    color: #000000;
+}
+
+#flowers2{
+    position: absolute;
+    width: 382px;
+    height: 382px;
+    left: -68px;
+    top: 1352px;
+    z-index: -2;
+}
+
+#bg2{
+    position: absolute;
+    width: 280px;
+    height: 400px;
+    left: 100px;
+    top: 1038px;
+    z-index: -1;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    background: #F7DEA6;
+}
+
+#bowls{
+    width: 388px;
+    height: 306px;
+    left: 138px;
+    top: 220px;
+}
